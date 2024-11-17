@@ -1,0 +1,2 @@
+docker hub - https://fapi-lr-792838167569.us-central1.run.app/docs
+git hub - https://hackathon-792838167569.us-central1.run.app/docs
